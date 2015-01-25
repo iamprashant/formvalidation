@@ -1,3 +1,3 @@
 # Form-validation
 
-JS liberary for html form validate 
+JS liberary for html form validation  
